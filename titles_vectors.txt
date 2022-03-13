@@ -1,0 +1,10 @@
+	system	response	eps	graph	minors	computer	human	interface	trees	survey	time	user
+d1	0	0	0	0	0	1	1	1	0	0	0	0
+d2	1	1	0	0	0	1	0	0	0	1	1	1
+d3	1	0	1	0	0	0	0	1	0	0	0	1
+d4	2	0	1	0	0	0	1	0	0	0	0	0
+d5	0	1	0	0	0	0	0	0	0	0	1	1
+d6	0	0	0	0	0	0	0	0	1	0	0	0
+d7	0	0	0	1	0	0	0	0	1	0	0	0
+d8	0	0	0	1	1	0	0	0	1	0	0	0
+d9	0	0	0	1	1	0	0	0	0	1	0	0
